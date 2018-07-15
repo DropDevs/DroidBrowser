@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DroidBrowser</string>
+    <string name="se_url">Search or Enter url</string>
+</resources>
